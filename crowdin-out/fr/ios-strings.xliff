@@ -2,15 +2,15 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file id="2" original="/Nikolai test root file.csv" source-language="en" target-language="fr-CA" datatype="plaintext">
     <body>
-      <trans-unit id="1" identifier="65436c4450fe5479357bb45a34dd4462" size-unit="char" maxwidth="80">
+      <trans-unit id="1" identifier="65436c4450fe5479357bb45a34dd4462" size-unit="char" maxwidth="80" approved="yes">
         <source>Welcome to Newforma mobile app!</source>
-        <target xml:lang="fr-CA" state="needs-translation">Welcome to Newforma mobile app!</target>
+        <target xml:lang="fr-CA">Bienvenue à l'application mobile Newforma!</target>
         <note>Context: welcome.message
 Displayed after the very first user sign-in.</note>
       </trans-unit>
-      <trans-unit id="2" identifier="3a3913e001e71097340f9580af098312" size-unit="char" maxwidth="120">
+      <trans-unit id="2" identifier="3a3913e001e71097340f9580af098312" size-unit="char" maxwidth="120" approved="yes">
         <source>Something really bad happened</source>
-        <target xml:lang="fr-CA" state="needs-translation">Something really bad happened</target>
+        <target xml:lang="fr-CA">Quelque chose de vraiment mauvais est arrivé</target>
         <note>Context: general.error
 Displayed when an undentified error happens</note>
       </trans-unit>
