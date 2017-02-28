@@ -1,0 +1,3 @@
+files:
+  - source: /crowdin/*
+    translation: /crowdin-out/%two_letters_code%/%original_file_name%
